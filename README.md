@@ -1,7 +1,7 @@
 <h1 align="center">💱 CONVERSOR DE MONEDAS 💲</h1>
 
 <p align="center">
-  <img width="400" height="350" alt="amigo secreto" src="icono-convertidor-monedas-dinero-contorno-monedas-dinero-convertidor-vector-icono-color-plano-aislado_96318-73780.avif" />
+  <img width="400" height="350" alt="amigo secreto" src="src/com/alura/conversor/assets/icono-convertidor-monedas-dinero-contorno-monedas-dinero-convertidor-vector-icono-color-plano-aislado_96318-73780.avif" />
 </p>
 
 <p align="center">
@@ -56,9 +56,9 @@ exchange.api.key=TU_API_KEY_AQUI
 
 ## 📷 Capturas del Proyecto
 
-<img width="900" alt="Formulario de ingreso de nombres" src="image1.png" />
+<img width="900" alt="Formulario de ingreso de nombres" src="src/com/alura/conversor/assets/image1.png" />
 <br>
-<img width="900" alt="Resultado del sorteo" src="image2.png" />
+<img width="900" alt="Resultado del sorteo" src="src/com/alura/conversor/assets/image2.png" />
 
 ---
 
