@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-Finished-green">
-  &nbsp;
-  <img src="https://img.shields.io/badge/GOAL-Self%20Learning-blue">
+  <img src="https://img.shields.io/badge/STATUS-Finalizado-success?style=for-the-badge"> &nbsp;
+  <img src="https://img.shields.io/badge/Java-21?style=for-the-badge&logo=java&logoColor=black" alt="Java"> &nbsp;
+  <img src="https://img.shields.io/badge/Google%20Gson-FF447B?style=for-the-badge&logo=gson&logoColor=white" alt="Gson"> &nbsp;
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"> &nbsp;
 </p>
 
 ---
